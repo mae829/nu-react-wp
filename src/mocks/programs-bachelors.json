@@ -1,0 +1,65 @@
+[
+  {
+    "results": [
+      {
+        "id": 1,
+        "term": {
+          "term_id": 1,
+          "name": "Teaching & Education",
+          "slug": "teaching-education",
+          "term_group": 0,
+          "term_taxonomy_id": 1,
+          "taxonomy": "area-of-study",
+          "description": "",
+          "parent": 0,
+          "count": 1,
+          "filter": "raw"
+        },
+        "programs": [{
+          "id": 1,
+          "title": "Bachelor of Arts in English with Single Subject Matter Preparation",
+          "permalink": "\/program\/bachelor-of-arts-in-english-with-single-subject-matter-preparation",
+          "excerpt": "Gain the perceptiveness, motivation, and training needed to succeed at the managerial level in the business world. You\u2019ll explore business and management fundamentals applicable to any field and company size.",
+          "locations": ["Online", "On Campus"]
+        }, {
+          "id": 2,
+          "title": "Bachelor of Arts in English",
+          "permalink": "\/program\/bachelor-of-arts-in-english",
+          "excerpt": "Explore the world of literature, language, and linguistics, and gain the communication skills necessary for advancement in any field.",
+          "locations": ["Online", "On Campus"]
+        }, {
+          "id": 3,
+          "title": "Bachelor of Arts in Early Childhood Education (BAECE)",
+          "permalink": "\/program\/bachelor-of-arts-in-early-childhood-education-baece",
+          "excerpt": "Become an early childhood educator, and work with children ages 8 and younger. You\u2019ll use play and other learning tools to address the physical, intellectual, language, emotional, and social needs of children.",
+          "locations": ["Online", "On Campus"]
+        }],
+        "totalPrograms": 10
+      },
+      {
+        "id": 2,
+        "term": {
+          "term_id": 1,
+          "name": "Business & Marketing",
+          "slug": "business-marketing",
+          "term_group": 0,
+          "term_taxonomy_id": 2,
+          "taxonomy": "area-of-study",
+          "description": "",
+          "parent": 0,
+          "count": 1,
+          "filter": "raw"
+        },
+        "programs": [{
+          "id": 3,
+          "title": "Bachelor of Arts in Integrated Marketing Communications",
+          "permalink": "\/program\/bachelor-of-arts-in-integrated-marketing-communications",
+          "excerpt": "Apply modern tools to the ancient art of persuasion. Gain an overview of marketing principles and practices, and prepare for a career in marketing, advertising, public relations, and other persuasive fields.",
+          "locations": ["Online", "On Campus"]
+        }],
+        "totalPrograms": 1
+      }
+    ],
+    "totalPrograms": 100
+  }
+]

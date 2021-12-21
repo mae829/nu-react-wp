@@ -1,0 +1,200 @@
+[
+  {
+    "taxonomy": "degree-level",
+    "terms": [{
+        "term_id": 1,
+        "name": "Associate",
+        "slug": "associate",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "degree-level",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 2,
+        "name": "Bachelor's",
+        "slug": "bachelors",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "degree-level",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 3,
+        "name": "Master's",
+        "slug": "masters",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "degree-level",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 4,
+        "name": "Certificate",
+        "slug": "certificate",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "degree-level",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 5,
+        "name": "Credential",
+        "slug": "credential",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "degree-level",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      }
+    ],
+    "heading": "1. Choose your degree level",
+    "tooltip": "Select a Degree Level"
+  },
+  {
+    "taxonomy": "area-of-study",
+    "terms": [{
+        "term_id": 6,
+        "name": "Teaching &amp; Education",
+        "slug": "teaching-education",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "area-of-study",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 7,
+        "name": "Business &amp; Marketing",
+        "slug": "business-marketing",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "area-of-study",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 8,
+        "name": "Healthcare &amp; Nursing",
+        "slug": "healthcare-nursing",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "area-of-study",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 9,
+        "name": "Criminal Justice &amp; Law",
+        "slug": "criminal justice-law",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "area-of-study",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 10,
+        "name": "Engineering &amp; Technology",
+        "slug": "engineering-technology",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "area-of-study",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 11,
+        "name": "Science &amp; Math",
+        "slug": "science-math",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "area-of-study",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 12,
+        "name": "Social Sciences &amp; Psychology",
+        "slug": "social-sciences-psychology",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "area-of-study",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 13,
+        "name": "Arts &amp; Humanities",
+        "slug": "arts-humanities",
+        "term_group": 0,
+        "term_taxonomy_id": 2,
+        "taxonomy": "area-of-study",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      }
+    ],
+    "heading": "2. Choose your area of study",
+    "tooltip": "Choose an area of study"
+  },
+  {
+    "taxonomy": "location",
+    "terms": [{
+        "term_id": 6,
+        "name": "Online",
+        "slug": "online",
+        "term_group": 0,
+        "term_taxonomy_id": 3,
+        "taxonomy": "location",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      },
+      {
+        "term_id": 7,
+        "name": "On Campus",
+        "slug": "on-campus",
+        "term_group": 0,
+        "term_taxonomy_id": 3,
+        "taxonomy": "locatoin",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw"
+      }
+    ],
+    "heading": "3. How would you like to take your classes?",
+    "tooltip": "Select online or on-campus courses"
+  }
+]
